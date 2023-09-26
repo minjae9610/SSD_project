@@ -17,7 +17,6 @@ ${NAME}:
 					cp SSD_TestShell/testshell .
 
 clean:
-					${REMOVE} ${OUTPUTS}
 					@${MAKE} -C SSD_simulator clean
 					@${MAKE} -C SSD_TestShell clean
 
