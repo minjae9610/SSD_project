@@ -1,0 +1,6 @@
+[submodule "SSD_simulator"]
+	path = SSD_simulator
+	url = https://github.com/minjae9610/SSD_simulator.git
+[submodule "SSD_TestShell"]
+	path = SSD_TestShell
+	url = https://github.com/kimjunha1575/SSD_TestShell.git
